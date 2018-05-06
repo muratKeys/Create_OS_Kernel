@@ -13,3 +13,9 @@ QEMU :-  Quick EMUlator to boot our kernel in virtual machine without rebooting 
 Let's Run:
 - $chmod +x run.sh
 - $./run.sh
+
+
+
+referances:
+- http://createyourownos.blogspot.com.tr/
+- https://www.codeproject.com/Articles/1225196/Create-Your-Own-Kernel-In-C
