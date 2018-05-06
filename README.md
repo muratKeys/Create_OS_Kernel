@@ -9,3 +9,7 @@ GCC :-  GNU Compiler Collection a cross compiler. gcc (Ubuntu 5.4.0-6ubuntu1~16.
 Xorriso :-  A package that creates, loads, manipulates ISO 9660 filesystem images.(man xorriso)
 grub-mkrescue :-  Make a GRUB rescue image, this package internally calls the xorriso functionality to build an iso image.
 QEMU :-  Quick EMUlator to boot our kernel in virtual machine without rebooting the main system.
+
+Let's Run:
+- $chmod +x run.sh
+- $./run.sh
