@@ -17,5 +17,6 @@ Let's Run:
 
 
 referances:
+- https://www.youtube.com/watch?v=l2wZf45ZcAg
 - http://createyourownos.blogspot.com.tr/
 - https://www.codeproject.com/Articles/1225196/Create-Your-Own-Kernel-In-C
