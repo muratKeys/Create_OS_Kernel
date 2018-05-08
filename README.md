@@ -17,7 +17,7 @@ Let's Run:
 
 
 referances:
-- https://www.youtube.com/watch?v=l2wZf45ZcAg
-- http://createyourownos.blogspot.com.tr/
-- https://www.codeproject.com/Articles/1225196/Create-Your-Own-Kernel-In-C
+- https://www.youtube.com/watch?v=l2wZf45ZcAgg
+- http://createyourownos.blogspot.com.tr/g
+- https://www.codeproject.com/Articles/1225196/Create-Your-Own-Kernel-In-Cg
 - http://mikeos.sourceforge.net/handbook-appdev-asm.html
